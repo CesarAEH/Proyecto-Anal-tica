@@ -1,1 +1,1 @@
-# Proyecto-Anal-tica
+# Proyecto-Analítica
