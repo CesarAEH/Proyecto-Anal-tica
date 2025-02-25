@@ -3,7 +3,7 @@
 
 # In[19]:
 
-
+import plotly.express as px
 import pandas as pd
 df4 = pd.read_excel("datosfinalesapartamentos.xlsx")  
 
